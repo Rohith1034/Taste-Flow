@@ -37,7 +37,7 @@ To get started, make sure you have the following:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/taste-flow-food-ordering-app.git
+    git clone https://github.com/Rohith1034/Taste-Flow
     ```
 
 2. Open the project in **Android Studio**.
