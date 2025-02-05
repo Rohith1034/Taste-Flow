@@ -21,13 +21,13 @@
 - **Firebase** for authentication, database storage, and push notifications.
 - **Glide** for efficient image loading and caching.
 - **Retrofit** for making API calls to interact with the backend.
-![Onboarding 1.png]
-![Onboarding 2.png]
-![iPhone 13, 12 Pro Max – 43.png]
-![Homescreen.png]
-![Product screen.png]
-![Cart 1.png]
-![Account flow 2.png]
+![Onboarding 1.png](Onboarding 1.png)
+![Onboarding 2.png](Onboarding 2.png)
+![iPhone 13, 12 Pro Max – 43.png](iPhone 13, 12 Pro Max – 43.png)
+![Homescreen.png](Homescreen.png)
+![Product screen.png](Product screen.png)
+![Cart 1.png](Cart 1.png)
+![Account flow 2.png](Account flow 2.png)
 
 
 ## Installation
@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or feedback, feel free to reach out:
 
 - **Email**: support@tasteflow.com
-- **GitHub**: [your-github-profile](https://github.com/)
+- **GitHub**: [your-github-profile](https://github.com/Rohith1034)
 - **Website**: [www.tasteflow.com](http://www.tasteflow.com)
 
 ---
