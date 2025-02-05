@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670353799711",
+    "project_id": "tasteflow-84914",
+    "storage_bucket": "tasteflow-84914.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670353799711:android:ef85d8c1372d489f18b32a",
+        "android_client_info": {
+          "package_name": "com.restaurant.tasteflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpxqT2JolS5H4fWT37tDuSPJCQFNY8-4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

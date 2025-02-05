@@ -1,0 +1,1705 @@
+{
+    "products": {
+        "P001": {
+            "productid": "P001",
+            "category": "Vegetarian",
+            "productImg":"https://t4.ftcdn.net/jpg/09/00/99/89/360_F_900998969_TrFJEiUKhiuMUCflFtR6U3o9pKH08PJq.jpg",
+            "ProductName": "Veg Biryani",
+            "ProductRating": 4.5,
+            "ProductPrice": 250,
+            "ProductContains": "Rice, Vegetables, Spices",
+            "Ingredients": [
+                "Rice",
+                "Carrot",
+                "Peas",
+                "Spices",
+                "Mint",
+                "Coriander"
+            ],
+            "TermsAndConditionsOfStorage": "Store in a cool place.",
+            "Reviews": [
+                {
+                    "UserId": "U001",
+                    "UserName": "John Doe",
+                    "UserRating": 5,
+                    "Comment": "Delicious and flavorful, the spices are well balanced."
+                },
+                {
+                    "UserId": "U002",
+                    "UserName": "Jane Smith",
+                    "UserRating": 4,
+                    "Comment": "Very aromatic, loved it! Could use a bit more vegetables."
+                }
+            ],
+            "Available": true
+        },
+        "P002": {
+            "productid": "P002",
+            "productImg":"https://www.freshtohome.com/blog/wp-content/uploads/2024/06/Screenshot-2024-06-27-120149.png",
+            "category": "Fish",
+            "ProductName": "Fish Curry",
+            "ProductRating": 4.2,
+            "ProductPrice": 350,
+            "ProductContains": "Fish, Coconut Milk, Spices",
+            "Ingredients": [
+                "Fish",
+                "Coconut Milk",
+                "Turmeric",
+                "Chili",
+                "Ginger",
+                "Garlic"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate after opening.",
+            "Reviews": [
+                {
+                    "UserId": "U003",
+                    "UserName": "Ali Khan",
+                    "UserRating": 4,
+                    "Comment": "Amazing taste, will definitely order again!"
+                },
+                {
+                    "UserId": "U004",
+                    "UserName": "Priya Singh",
+                    "UserRating": 4.5,
+                    "Comment": "The curry is rich and flavorful, great combination of spices."
+                }
+            ],
+            "Available": true
+        },
+        "P003": {
+            "productid": "P003",
+            "category": "Vegetarian",
+            "productImg":"https://t4.ftcdn.net/jpg/09/09/00/73/360_F_909007300_vsCk5vSiim9vX2rJKgEfWB36rcOPJGrC.jpg",
+            "ProductName": "Paneer Tikka",
+            "ProductRating": 4.7,
+            "ProductPrice": 200,
+            "ProductContains": "Paneer, Spices, Yogurt",
+            "Ingredients": [
+                "Paneer",
+                "Yogurt",
+                "Chili",
+                "Turmeric",
+                "Ginger",
+                "Garlic"
+            ],
+            "TermsAndConditionsOfStorage": "Keep refrigerated if not consumed immediately.",
+            "Reviews": [
+                {
+                    "UserId": "U005",
+                    "UserName": "Rohit Sharma",
+                    "UserRating": 5,
+                    "Comment": "Perfectly grilled, loved the smokey flavor."
+                },
+                {
+                    "UserId": "U006",
+                    "UserName": "Sita Rani",
+                    "UserRating": 4.5,
+                    "Comment": "Great taste but a little spicy for my liking."
+                }
+            ],
+            "Available": true
+        },
+        "P004": {
+            "productid": "P004",
+            "category": "Chicken",
+            "productImg":"https://static.toiimg.com/thumb/53205522.cms?imgsize=302803&width=800&height=800",
+            "ProductName": "Butter Chicken",
+            "ProductRating": 4.8,
+            "ProductPrice": 350,
+            "ProductContains": "Chicken, Butter, Cream, Spices",
+            "Ingredients": [
+                "Chicken",
+                "Butter",
+                "Cream",
+                "Tomato",
+                "Garlic",
+                "Ginger",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate after opening.",
+            "Reviews": [
+                {
+                    "UserId": "U007",
+                    "UserName": "Anil Kumar",
+                    "UserRating": 5,
+                    "Comment": "The best Butter Chicken I've ever had!"
+                },
+                {
+                    "UserId": "U008",
+                    "UserName": "Meera Sharma",
+                    "UserRating": 4,
+                    "Comment": "Rich and creamy, just the right amount of spice."
+                }
+            ],
+            "Available": true
+        },
+        "P005": {
+            "productid": "P005",
+            "category": "Mutton",
+            "productImg":"https://static.toiimg.com/thumb/53192600.cms?imgsize=418831&width=800&height=800",
+            "ProductName": "Mutton Rogan Josh",
+            "ProductRating": 4.3,
+            "ProductPrice": 450,
+            "ProductContains": "Mutton, Yogurt, Spices",
+            "Ingredients": [
+                "Mutton",
+                "Yogurt",
+                "Onion",
+                "Garlic",
+                "Cumin",
+                "Coriander",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Keep refrigerated and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U009",
+                    "UserName": "Ravi Singh",
+                    "UserRating": 4,
+                    "Comment": "Flavors are great, though a bit oily for my taste."
+                },
+                {
+                    "UserId": "U010",
+                    "UserName": "Neha Patel",
+                    "UserRating": 5,
+                    "Comment": "Mouth-watering! Perfectly cooked mutton."
+                }
+            ],
+            "Available": true
+        },
+        "P006": {
+            "productid": "P006",
+            "category": "Vegetarian",
+            "ProductName": "Masala Dosa",
+            "productImg":"data:image/jpeg;base64,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",
+            "ProductRating": 4.6,
+            "ProductPrice": 120,
+            "ProductContains": "Rice, Lentils, Spices",
+            "Ingredients": [
+                "Rice",
+                "Lentils",
+                "Tamarind",
+                "Curry Leaves",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Best served fresh, consume immediately.",
+            "Reviews": [
+                {
+                    "UserId": "U011",
+                    "UserName": "Priya Verma",
+                    "UserRating": 5,
+                    "Comment": "Crispy and flavorful, just like the ones from the street vendors."
+                },
+                {
+                    "UserId": "U012",
+                    "UserName": "Ashok Gupta",
+                    "UserRating": 4.5,
+                    "Comment": "Delicious, but the chutney could be spicier."
+                }
+            ],
+            "Available": true
+        },
+        "P007": {
+            "productid": "P007",
+            "category": "Vegetarian",
+            "productImg":"https://thumbs.dreamstime.com/b/chole-bhature-dark-background-served-laccha-onions-pickle-buttermilk-restaurant-style-304060489.jpg",
+            "ProductName": "Chole Bhature",
+            "ProductRating": 4.7,
+            "ProductPrice": 180,
+            "ProductContains": "Chickpeas, Flour, Spices",
+            "Ingredients": [
+                "Chickpeas",
+                "Flour",
+                "Onion",
+                "Tomato",
+                "Chili",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Consume within 24 hours for best taste.",
+            "Reviews": [
+                {
+                    "UserId": "U013",
+                    "UserName": "Sanjay Yadav",
+                    "UserRating": 5,
+                    "Comment": "Absolutely delicious, the bhature are so soft!"
+                },
+                {
+                    "UserId": "U014",
+                    "UserName": "Kavita Rani",
+                    "UserRating": 4.5,
+                    "Comment": "Great taste, but the portion size could be a bit larger."
+                }
+            ],
+            "Available": true
+        },
+        "P008": {
+            "productid": "P008",
+            "category": "Vegetarian",
+            "productImg":"https://img.freepik.com/free-photo/flat-lay-pakistani-food-arrangement_23-2148825110.jpg",
+            "ProductName": "Palak Paneer",
+            "ProductRating": 4.4,
+            "ProductPrice": 300,
+            "ProductContains": "Spinach, Paneer, Spices",
+            "Ingredients": [
+                "Spinach",
+                "Paneer",
+                "Garlic",
+                "Onion",
+                "Tomato",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Store in a cool place and refrigerate after opening.",
+            "Reviews": [
+                {
+                    "UserId": "U015",
+                    "UserName": "Suresh Choudhury",
+                    "UserRating": 4.5,
+                    "Comment": "Perfectly cooked, the paneer is soft and the flavors are rich."
+                },
+                {
+                    "UserId": "U016",
+                    "UserName": "Rita Mehta",
+                    "UserRating": 4,
+                    "Comment": "Tasty but could use more spices."
+                }
+            ],
+            "Available": true
+        },
+        "P009": {
+            "productid": "P009",
+            "category": "Chicken",
+            "productImg":"https://t3.ftcdn.net/jpg/03/61/02/44/360_F_361024401_whhOCNdEPi0LlQz1lvbyY0dvZuno3aVp.jpg",
+            "ProductName": "Tandoori Chicken",
+            "ProductRating": 4.9,
+            "ProductPrice": 500,
+            "ProductContains": "Chicken, Yogurt, Spices",
+            "Ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Cumin",
+                "Coriander",
+                "Chili",
+                "Garlic",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 2 days.",
+            "Reviews": [
+                {
+                    "UserId": "U017",
+                    "UserName": "Vikas Sharma",
+                    "UserRating": 5,
+                    "Comment": "Excellent! The chicken is tender and full of flavor."
+                },
+                {
+                    "UserId": "U018",
+                    "UserName": "Anjali Gupta",
+                    "UserRating": 5,
+                    "Comment": "Best tandoori chicken I have ever had!"
+                }
+            ],
+            "Available": true
+        },
+        "P010": {
+            "productid": "P010",
+            "category": "Vegetarian",
+            "productImg":"https://kitchenmai.com/wp-content/uploads/2020/03/aloo_paratha_IG-e1585496593235-500x500.jpg",
+            "ProductName": "Aloo Paratha",
+            "ProductRating": 4.6,
+            "ProductPrice": 90,
+            "ProductContains": "Potatoes, Flour, Spices",
+            "Ingredients": [
+                "Potatoes",
+                "Flour",
+                "Cumin",
+                "Coriander",
+                "Chili",
+                "Garlic",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Best consumed fresh, store in a cool place.",
+            "Reviews": [
+                {
+                    "UserId": "U019",
+                    "UserName": "Suresh Kumar",
+                    "UserRating": 5,
+                    "Comment": "Perfectly crispy, delicious with curd and pickle."
+                },
+                {
+                    "UserId": "U020",
+                    "UserName": "Anita Devi",
+                    "UserRating": 4,
+                    "Comment": "Tasty but a little too thick for my preference."
+                }
+            ],
+            "Available": true
+        },
+        "P011": {
+            "productid": "P011",
+            "category": "Vegetarian",
+            "productImg":"https://t4.ftcdn.net/jpg/10/41/99/53/360_F_1041995329_Y948A29Hru2TXn8JgkWMwJmIVauyQ9jq.jpg",
+            "ProductName": "Dhokla",
+            "ProductRating": 4.7,
+            "ProductPrice": 100,
+            "ProductContains": "Rice Flour, Yogurt, Spices",
+            "Ingredients": [
+                "Rice Flour",
+                "Yogurt",
+                "Turmeric",
+                "Mustard Seeds",
+                "Curry Leaves",
+                "Chili"
+            ],
+            "TermsAndConditionsOfStorage": "Best when fresh, store in an airtight container.",
+            "Reviews": [
+                {
+                    "UserId": "U021",
+                    "UserName": "Sunita Patel",
+                    "UserRating": 5,
+                    "Comment": "Soft and spongy, absolutely loved it!"
+                },
+                {
+                    "UserId": "U022",
+                    "UserName": "Rajesh Yadav",
+                    "UserRating": 4.5,
+                    "Comment": "Tasty, but a little more tanginess would be great."
+                }
+            ],
+            "Available": true
+        },
+        "P012": {
+            "productid": "P012",
+            "category": "Seafood",
+            "productImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbyeX1e-FFNroOPee3sc8fVCmMUxemqtIPg&s",
+            "ProductName": "Grilled Salmon",
+            "ProductRating": 4.8,
+            "ProductPrice": 700,
+            "ProductContains": "Salmon, Olive Oil, Garlic, Lemon",
+            "Ingredients": [
+                "Salmon",
+                "Olive Oil",
+                "Garlic",
+                "Lemon",
+                "Herbs"
+            ],
+            "TermsAndConditionsOfStorage": "Keep refrigerated and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U023",
+                    "UserName": "Vikram Joshi",
+                    "UserRating": 5,
+                    "Comment": "Absolutely delicious! The lemon and garlic give it a great flavor."
+                },
+                {
+                    "UserId": "U024",
+                    "UserName": "Simran Kaur",
+                    "UserRating": 4.5,
+                    "Comment": "Great quality fish, but I prefer it with more seasoning."
+                }
+            ],
+            "Available": true
+        },
+        "P013": {
+            "productid": "P013",
+            "category": "Mutton",
+            "productImg":"https://media.istockphoto.com/id/1410335829/photo/mutton-sukka-karahi-served-in-a-dish-isolated-on-dark-background-top-view.jpg?s=612x612&w=0&k=20&c=AOTlr_JFiKrE9u3JLF8dRaRSCflPZIofC7kvNH-ks0Y=",
+            "ProductName": "Mutton Korma",
+            "ProductRating": 4.7,
+            "ProductPrice": 550,
+            "ProductContains": "Mutton, Yogurt, Spices",
+            "Ingredients": [
+                "Mutton",
+                "Yogurt",
+                "Onion",
+                "Coriander",
+                "Cumin",
+                "Ginger",
+                "Garlic"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate after opening and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U025",
+                    "UserName": "Nitin Kumar",
+                    "UserRating": 5,
+                    "Comment": "The best mutton korma I've tasted, so flavorful!"
+                },
+                {
+                    "UserId": "U026",
+                    "UserName": "Rajeev Gupta",
+                    "UserRating": 4.5,
+                    "Comment": "Tasty, but it could be a little spicier for my taste."
+                }
+            ],
+            "Available": true
+        },
+        "P014": {
+            "productid": "P014",
+            "category": "Vegetarian",
+            "productImg":"https://static.wixstatic.com/media/91e241_0cf76aa5613b4055be2f922f71edeaa0~mv2.jpg/v1/fill/w_560,h_372,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Ustaadi%20Hyderabadi%20Veg%20Biryani.jpg",
+            "ProductName": "Vegetable Biryani",
+            "ProductRating": 4.6,
+            "ProductPrice": 250,
+            "ProductContains": "Rice, Vegetables, Spices",
+            "Ingredients": [
+                "Rice",
+                "Carrot",
+                "Peas",
+                "Potato",
+                "Coriander",
+                "Cumin",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 2 days.",
+            "Reviews": [
+                {
+                    "UserId": "U027",
+                    "UserName": "Shweta Rani",
+                    "UserRating": 5,
+                    "Comment": "Great flavors and perfectly cooked rice!"
+                },
+                {
+                    "UserId": "U028",
+                    "UserName": "Shivendra Singh",
+                    "UserRating": 4.5,
+                    "Comment": "Delicious, but could use a little more spice."
+                }
+            ],
+            "Available": true
+        },
+        "P015": {
+            "productid": "P015",
+            "category": "Chicken",
+            "productImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReReuSvYvTaEm8RvZNFpX10_kpMjolzB7NSw&s",
+            "ProductName": "Chicken Tikka",
+            "ProductRating": 4.9,
+            "ProductPrice": 350,
+            "ProductContains": "Chicken, Yogurt, Spices",
+            "Ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Cumin",
+                "Coriander",
+                "Chili",
+                "Ginger",
+                "Garlic"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 2 days.",
+            "Reviews": [
+                {
+                    "UserId": "U029",
+                    "UserName": "Manish Kumar",
+                    "UserRating": 5,
+                    "Comment": "Perfectly cooked, with just the right amount of spice."
+                },
+                {
+                    "UserId": "U030",
+                    "UserName": "Sunita Sharma",
+                    "UserRating": 5,
+                    "Comment": "Amazing taste, one of the best chicken tikka I’ve had."
+                }
+            ],
+            "Available": true
+        },
+        "P016": {
+            "productid": "P016",
+            "category": "Mutton",
+            "productImg":"https://www.shutterstock.com/image-photo/seekh-kabab-made-minced-chicken-260nw-2108290247.jpg",
+            "ProductName": "Mutton Seekh Kebab",
+            "ProductRating": 4.7,
+            "ProductPrice": 400,
+            "ProductContains": "Mutton, Spices",
+            "Ingredients": [
+                "Mutton",
+                "Onion",
+                "Garlic",
+                "Cumin",
+                "Coriander",
+                "Chili",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Consume within 24 hours of purchase.",
+            "Reviews": [
+                {
+                    "UserId": "U031",
+                    "UserName": "Arvind Kumar",
+                    "UserRating": 5,
+                    "Comment": "Juicy and tender, perfect for kebab lovers!"
+                },
+                {
+                    "UserId": "U032",
+                    "UserName": "Deepika Singh",
+                    "UserRating": 4.5,
+                    "Comment": "Delicious, but could use a little more seasoning."
+                }
+            ],
+            "Available": true
+        },
+        "P017": {
+            "productid": "P017",
+            "category": "Vegetarian",
+            "productImg":"https://vegecravings.com/wp-content/uploads/2017/04/paneer-butter-masala-recipe-step-by-step-instructions.jpg",
+            "ProductName": "Paneer Butter Masala",
+            "ProductRating": 4.8,
+            "ProductPrice": 350,
+            "ProductContains": "Paneer, Butter, Spices",
+            "Ingredients": [
+                "Paneer",
+                "Butter",
+                "Tomato",
+                "Cream",
+                "Cumin",
+                "Coriander",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U033",
+                    "UserName": "Nidhi Mishra",
+                    "UserRating": 5,
+                    "Comment": "One of the best paneer butter masala I’ve ever had!"
+                },
+                {
+                    "UserId": "U034",
+                    "UserName": "Ajay Kumar",
+                    "UserRating": 4.5,
+                    "Comment": "Delicious, but could use a bit more tanginess."
+                }
+            ],
+            "Available": true
+        },
+        "P018": {
+            "productid": "P018",
+            "category": "Vegetarian",
+            "productImg":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/baingan-bharta.jpg",
+            "ProductName": "Baingan Bharta",
+            "ProductRating": 4.5,
+            "ProductPrice": 280,
+            "ProductContains": "Eggplant, Spices",
+            "Ingredients": [
+                "Eggplant",
+                "Onion",
+                "Garlic",
+                "Tomato",
+                "Coriander",
+                "Cumin",
+                "Chili"
+            ],
+            "TermsAndConditionsOfStorage": "Keep refrigerated and consume within 2 days.",
+            "Reviews": [
+                {
+                    "UserId": "U035",
+                    "UserName": "Pooja Yadav",
+                    "UserRating": 5,
+                    "Comment": "Authentic and flavorful!"
+                },
+                {
+                    "UserId": "U036",
+                    "UserName": "Vishal Gupta",
+                    "UserRating": 4.5,
+                    "Comment": "Perfectly cooked, but a little more smokiness would be great."
+                }
+            ],
+            "Available": true
+        },
+        "P019": {
+            "productid": "P019",
+            "category": "Chicken",
+            "productImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHiQeBF3ma7awKjIbgcCe5nhHThbHaLf26ZQ&s",
+            "ProductName": "Chicken Shawarma",
+            "ProductRating": 4.6,
+            "ProductPrice": 250,
+            "ProductContains": "Chicken, Spices, Yogurt",
+            "Ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Cumin",
+                "Coriander",
+                "Garlic",
+                "Chili",
+                "Lemon"
+            ],
+            "TermsAndConditionsOfStorage": "Store in a cool place and consume within 24 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U037",
+                    "UserName": "Manoj Kumar",
+                    "UserRating": 5,
+                    "Comment": "Tastes just like the ones from the Middle East!"
+                },
+                {
+                    "UserId": "U038",
+                    "UserName": "Neelam Sharma",
+                    "UserRating": 4.5,
+                    "Comment": "Great taste but the portion could be a little bigger."
+                }
+            ],
+            "Available": true
+        },
+        "P020": {
+            "productid": "P020",
+            "category": "Seafood",
+            "productImg":"https://img.freepik.com/free-photo/close-up-delicious-asian-food_23-2150535861.jpg",
+            "ProductName": "Prawn Masala",
+            "ProductRating": 4.8,
+            "ProductPrice": 600,
+            "ProductContains": "Prawns, Spices",
+            "Ingredients": [
+                "Prawns",
+                "Onion",
+                "Tomato",
+                "Coriander",
+                "Ginger",
+                "Garlic",
+                "Chili",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U039",
+                    "UserName": "Pankaj Sharma",
+                    "UserRating": 5,
+                    "Comment": "Absolutely delicious, the prawns are tender and flavorful!"
+                },
+                {
+                    "UserId": "U040",
+                    "UserName": "Anushka Singh",
+                    "UserRating": 4.5,
+                    "Comment": "Very tasty, but could be spicier."
+                }
+            ],
+            "Available": true
+        },
+        "P021": {
+            "productid": "P021",
+            "category": "Mutton",
+            "productImg":"",
+            "ProductName": "Mutton Shank",
+            "ProductRating": 4.9,
+            "ProductPrice": 750,
+            "ProductContains": "Mutton, Spices",
+            "Ingredients": [
+                "Mutton",
+                "Onion",
+                "Garlic",
+                "Ginger",
+                "Coriander",
+                "Cumin",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Store in a cool place and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U041",
+                    "UserName": "Amit Yadav",
+                    "UserRating": 5,
+                    "Comment": "Melt-in-your-mouth tender and full of flavor!"
+                },
+                {
+                    "UserId": "U042",
+                    "UserName": "Manju Gupta",
+                    "UserRating": 5,
+                    "Comment": "Amazing dish, must-try for all mutton lovers!"
+                }
+            ],
+            "Available": true
+        },
+        "P022": {
+            "productid": "P022",
+            "category": "Vegetarian",
+            "productImg":"",
+            "ProductName": "Methi Thepla",
+            "ProductRating": 4.7,
+            "ProductPrice": 150,
+            "ProductContains": "Fenugreek, Flour, Spices",
+            "Ingredients": [
+                "Fenugreek",
+                "Flour",
+                "Cumin",
+                "Coriander",
+                "Chili",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Best consumed fresh, store in an airtight container.",
+            "Reviews": [
+                {
+                    "UserId": "U043",
+                    "UserName": "Suman Thakur",
+                    "UserRating": 5,
+                    "Comment": "Soft, aromatic, and tasty, just like mom’s recipe."
+                },
+                {
+                    "UserId": "U044",
+                    "UserName": "Rakesh Sharma",
+                    "UserRating": 4.5,
+                    "Comment": "Great taste, but would like it to be spicier."
+                }
+            ],
+            "Available": true
+        },
+        "P023": {
+            "productid": "P023",
+            "category": "Chicken",
+            "productImg":"",
+            "ProductName": "Chicken Biryani",
+            "ProductRating": 4.8,
+            "ProductPrice": 350,
+            "ProductContains": "Chicken, Rice, Spices",
+            "Ingredients": [
+                "Chicken",
+                "Rice",
+                "Cumin",
+                "Coriander",
+                "Onion",
+                "Garlic",
+                "Chili",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Consume within 24 hours for best taste.",
+            "Reviews": [
+                {
+                    "UserId": "U045",
+                    "UserName": "Karan Mehta",
+                    "UserRating": 5,
+                    "Comment": "The flavors are amazing, this is one of the best biryanis I've had."
+                },
+                {
+                    "UserId": "U046",
+                    "UserName": "Alok Kumar",
+                    "UserRating": 4.5,
+                    "Comment": "Tasty, but a little less spicy than I expected."
+                }
+            ],
+            "Available": true
+        },
+        "P024": {
+            "productid": "P024",
+            "category": "Vegetarian",
+            "productImg":"",
+            "ProductName": "Aloo Gobi",
+            "ProductRating": 4.5,
+            "ProductPrice": 220,
+            "ProductContains": "Potato, Cauliflower, Spices",
+            "Ingredients": [
+                "Potato",
+                "Cauliflower",
+                "Onion",
+                "Tomato",
+                "Coriander",
+                "Cumin",
+                "Chili",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 2 days.",
+            "Reviews": [
+                {
+                    "UserId": "U047",
+                    "UserName": "Geeta Rani",
+                    "UserRating": 5,
+                    "Comment": "Perfect blend of flavors and textures."
+                },
+                {
+                    "UserId": "U048",
+                    "UserName": "Ravi Sharma",
+                    "UserRating": 4.5,
+                    "Comment": "Great taste, but could use a little more spice."
+                }
+            ],
+            "Available": true
+        },
+        "P025": {
+            "productid": "P025",
+            "category": "Seafood",
+            "productImg":"",
+            "ProductName": "Fish Curry",
+            "ProductRating": 4.7,
+            "ProductPrice": 400,
+            "ProductContains": "Fish, Coconut, Spices",
+            "Ingredients": [
+                "Fish",
+                "Coconut",
+                "Coriander",
+                "Ginger",
+                "Garlic",
+                "Curry Leaves",
+                "Chili",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 2 days.",
+            "Reviews": [
+                {
+                    "UserId": "U049",
+                    "UserName": "Kiran Verma",
+                    "UserRating": 5,
+                    "Comment": "Deliciously spicy with a hint of coconut. Loved it!"
+                },
+                {
+                    "UserId": "U050",
+                    "UserName": "Ajay Yadav",
+                    "UserRating": 4.8,
+                    "Comment": "The fish is tender, and the curry is flavorful."
+                }
+            ],
+            "Available": true
+        },
+        "P026": {
+            "productid": "P026",
+            "category": "Vegetarian",
+            "productImg":"",
+            "ProductName": "Palak Paneer",
+            "ProductRating": 4.9,
+            "ProductPrice": 320,
+            "ProductContains": "Spinach, Paneer, Spices",
+            "Ingredients": [
+                "Spinach",
+                "Paneer",
+                "Onion",
+                "Tomato",
+                "Garlic",
+                "Cumin",
+                "Chili",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U051",
+                    "UserName": "Anjali Sharma",
+                    "UserRating": 5,
+                    "Comment": "One of the best I’ve had! So creamy and flavorful."
+                },
+                {
+                    "UserId": "U052",
+                    "UserName": "Sandeep Kumar",
+                    "UserRating": 4.8,
+                    "Comment": "Perfectly balanced flavors, loved the paneer."
+                }
+            ],
+            "Available": true
+        },
+        "P027": {
+            "productid": "P027",
+            "category": "Mutton",
+            "productImg":"",
+            "ProductName": "Mutton Rogan Josh",
+            "ProductRating": 4.7,
+            "ProductPrice": 500,
+            "ProductContains": "Mutton, Yogurt, Spices",
+            "Ingredients": [
+                "Mutton",
+                "Yogurt",
+                "Cumin",
+                "Ginger",
+                "Garlic",
+                "Coriander",
+                "Chili"
+            ],
+            "TermsAndConditionsOfStorage": "Store in a cool place and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U053",
+                    "UserName": "Vikash Singh",
+                    "UserRating": 5,
+                    "Comment": "Incredible flavors, the mutton is so tender!"
+                },
+                {
+                    "UserId": "U054",
+                    "UserName": "Rita Yadav",
+                    "UserRating": 4.6,
+                    "Comment": "Rich and flavorful, but a bit too spicy for me."
+                }
+            ],
+            "Available": true
+        },
+        "P028": {
+            "productid": "P028",
+            "category": "Chicken",
+            "productImg":"",
+            "ProductName": "Chicken Korma",
+            "ProductRating": 4.8,
+            "ProductPrice": 450,
+            "ProductContains": "Chicken, Yogurt, Almonds, Spices",
+            "Ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Almonds",
+                "Coriander",
+                "Cumin",
+                "Ginger",
+                "Garlic"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U055",
+                    "UserName": "Neha Kumari",
+                    "UserRating": 5,
+                    "Comment": "Absolutely delicious, one of my favorites!"
+                },
+                {
+                    "UserId": "U056",
+                    "UserName": "Brijesh Kumar",
+                    "UserRating": 4.7,
+                    "Comment": "The gravy is rich and creamy, perfect with naan."
+                }
+            ],
+            "Available": true
+        },
+        "P029": {
+            "productid": "P029",
+            "category": "Vegetarian",
+            "productImg":"",
+            "ProductName": "Chole Bhature",
+            "ProductRating": 4.7,
+            "ProductPrice": 200,
+            "ProductContains": "Chickpeas, Flour, Spices",
+            "Ingredients": [
+                "Chickpeas",
+                "Flour",
+                "Onion",
+                "Tomato",
+                "Coriander",
+                "Cumin",
+                "Ginger",
+                "Chili"
+            ],
+            "TermsAndConditionsOfStorage": "Best served fresh.",
+            "Reviews": [
+                {
+                    "UserId": "U057",
+                    "UserName": "Rajesh Kumar",
+                    "UserRating": 5,
+                    "Comment": "Fluffy bhature and flavorful chole. A great combination!"
+                },
+                {
+                    "UserId": "U058",
+                    "UserName": "Varun Yadav",
+                    "UserRating": 4.5,
+                    "Comment": "Tasty, but the bhature could be fluffier."
+                }
+            ],
+            "Available": true
+        },
+        "P030": {
+            "productid": "P030",
+            "category": "Vegetarian",
+            "productImg":"",
+            "ProductName": "Dal Makhani",
+            "ProductRating": 4.8,
+            "ProductPrice": 280,
+            "ProductContains": "Lentils, Butter, Cream, Spices",
+            "Ingredients": [
+                "Black Lentils",
+                "Butter",
+                "Cream",
+                "Cumin",
+                "Ginger",
+                "Garlic",
+                "Coriander"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U059",
+                    "UserName": "Manju Gupta",
+                    "UserRating": 5,
+                    "Comment": "The dal is so creamy and delicious!"
+                },
+                {
+                    "UserId": "U060",
+                    "UserName": "Sumit Verma",
+                    "UserRating": 4.7,
+                    "Comment": "Great taste, but a little less creamy would be perfect."
+                }
+            ],
+            "Available": true
+        },
+        "P031": {
+            "productid": "P031",
+            "category": "Chicken",
+            "productImg":"",
+            "ProductName": "Butter Chicken",
+            "ProductRating": 4.9,
+            "ProductPrice": 350,
+            "ProductContains": "Chicken, Butter, Cream, Spices",
+            "Ingredients": [
+                "Chicken",
+                "Butter",
+                "Cream",
+                "Tomato",
+                "Garlic",
+                "Ginger",
+                "Spices"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate after opening.",
+            "Reviews": [
+                {
+                    "UserId": "U061",
+                    "UserName": "Ravi Kumar",
+                    "UserRating": 5,
+                    "Comment": "The best Butter Chicken I've ever had!"
+                },
+                {
+                    "UserId": "U062",
+                    "UserName": "Shivani Joshi",
+                    "UserRating": 4.8,
+                    "Comment": "Rich and creamy, great taste."
+                }
+            ],
+            "Available": true
+        },
+        "P032": {
+            "productid": "P032",
+            "category": "Seafood",
+            "productImg":"",
+            "ProductName": "Crab Curry",
+            "ProductRating": 4.8,
+            "ProductPrice": 600,
+            "ProductContains": "Crab, Coconut, Spices",
+            "Ingredients": [
+                "Crab",
+                "Coconut",
+                "Curry Leaves",
+                "Chili",
+                "Cumin",
+                "Ginger",
+                "Garlic"
+            ],
+            "TermsAndConditionsOfStorage": "Consume within 2 days of purchase.",
+            "Reviews": [
+                {
+                    "UserId": "U063",
+                    "UserName": "Neelam Verma",
+                    "UserRating": 5,
+                    "Comment": "Delicious and flavorful! Crab was cooked to perfection."
+                },
+                {
+                    "UserId": "U064",
+                    "UserName": "Kunal Mehta",
+                    "UserRating": 4.7,
+                    "Comment": "Great flavor, but the crab could be fresher."
+                }
+            ],
+            "Available": true
+        },
+        "P033": {
+            "productid": "P033",
+            "category": "Chicken",
+            "productImg":"",
+            "ProductName": "Chicken Tikka Masala",
+            "ProductRating": 4.9,
+            "ProductPrice": 370,
+            "ProductContains": "Chicken, Yogurt, Spices",
+            "Ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Cumin",
+                "Coriander",
+                "Garlic",
+                "Chili",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate after opening.",
+            "Reviews": [
+                {
+                    "UserId": "U065",
+                    "UserName": "Vikram Singh",
+                    "UserRating": 5,
+                    "Comment": "Superb flavor, one of the best tikka masalas."
+                },
+                {
+                    "UserId": "U066",
+                    "UserName": "Sushma Devi",
+                    "UserRating": 4.9,
+                    "Comment": "Perfectly balanced flavors, loved it!"
+                }
+            ],
+            "Available": true
+        },
+        "P034": {
+            "productid": "P034",
+            "category": "Mutton",
+            "productImg":"",
+            "ProductName": "Mutton Korma",
+            "ProductRating": 4.6,
+            "ProductPrice": 480,
+            "ProductContains": "Mutton, Yogurt, Almonds, Spices",
+            "Ingredients": [
+                "Mutton",
+                "Yogurt",
+                "Almonds",
+                "Coriander",
+                "Cumin",
+                "Garlic",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Store in a cool place and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U067",
+                    "UserName": "Amit Soni",
+                    "UserRating": 5,
+                    "Comment": "The mutton is so tender, and the gravy is rich!"
+                },
+                {
+                    "UserId": "U068",
+                    "UserName": "Poonam Yadav",
+                    "UserRating": 4.5,
+                    "Comment": "Great taste, but a little more spice would be ideal."
+                }
+            ],
+            "Available": true
+        },
+        "P035": {
+            "productid": "P035",
+            "category": "Vegetarian",
+            "productImg":"",
+            "ProductName": "Mixed Vegetable Curry",
+            "ProductRating": 4.7,
+            "ProductPrice": 280,
+            "ProductContains": "Mixed Vegetables, Spices",
+            "Ingredients": [
+                "Carrot",
+                "Peas",
+                "Potato",
+                "Cauliflower",
+                "Tomato",
+                "Cumin",
+                "Chili",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U069",
+                    "UserName": "Rupa Singh",
+                    "UserRating": 5,
+                    "Comment": "Great combination of vegetables and spices!"
+                },
+                {
+                    "UserId": "U070",
+                    "UserName": "Manoj Kumar",
+                    "UserRating": 4.6,
+                    "Comment": "Delicious, but could use more spices."
+                }
+            ],
+            "Available": true
+        },
+        "P036": {
+            "productid": "P036",
+            "category": "Chicken",
+            "productImg":"",
+            "ProductName": "Chicken Biryani",
+            "ProductRating": 4.8,
+            "ProductPrice": 400,
+            "ProductContains": "Chicken, Rice, Spices",
+            "Ingredients": [
+                "Chicken",
+                "Rice",
+                "Coriander",
+                "Ginger",
+                "Garlic",
+                "Cardamom",
+                "Cinnamon"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U071",
+                    "UserName": "Suresh Kumar",
+                    "UserRating": 5,
+                    "Comment": "Absolutely perfect biryani! The chicken was tender."
+                },
+                {
+                    "UserId": "U072",
+                    "UserName": "Deepika Sharma",
+                    "UserRating": 4.7,
+                    "Comment": "Very tasty, but I prefer a stronger spice kick."
+                }
+            ],
+            "Available": true
+        },
+        "P037": {
+            "productid": "P037",
+            "category": "Vegetarian",
+            "productImg":"",
+            "ProductName": "Paneer Butter Masala",
+            "ProductRating": 4.9,
+            "ProductPrice": 350,
+            "ProductContains": "Paneer, Butter, Cream, Spices",
+            "Ingredients": [
+                "Paneer",
+                "Butter",
+                "Cream",
+                "Tomato",
+                "Cumin",
+                "Chili",
+                "Ginger",
+                "Garlic"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 2 days.",
+            "Reviews": [
+                {
+                    "UserId": "U073",
+                    "UserName": "Shweta Joshi",
+                    "UserRating": 5,
+                    "Comment": "Deliciously creamy and flavorful!"
+                },
+                {
+                    "UserId": "U074",
+                    "UserName": "Kunal Mehta",
+                    "UserRating": 4.8,
+                    "Comment": "The best paneer butter masala I've had!"
+                }
+            ],
+            "Available": true
+        },
+        "P038": {
+            "productid": "P038",
+            "category": "Mutton",
+            "productImg":"",
+            "ProductName": "Mutton Shami Kebab",
+            "ProductRating": 4.5,
+            "ProductPrice": 500,
+            "ProductContains": "Mutton, Spices",
+            "Ingredients": [
+                "Mutton",
+                "Coriander",
+                "Ginger",
+                "Garlic",
+                "Cumin",
+                "Chili",
+                "Onion"
+            ],
+            "TermsAndConditionsOfStorage": "Best served fresh.",
+            "Reviews": [
+                {
+                    "UserId": "U075",
+                    "UserName": "Amit Verma",
+                    "UserRating": 5,
+                    "Comment": "The kebabs are tender and bursting with flavor!"
+                },
+                {
+                    "UserId": "U076",
+                    "UserName": "Priya Sharma",
+                    "UserRating": 4.4,
+                    "Comment": "Tasty kebabs, but the spices could be toned down."
+                }
+            ],
+            "Available": true
+        },
+        "P039": {
+            "productid": "P039",
+            "category": "Chicken",
+            "productImg":"",
+            "ProductName": "Chicken Malai Tikka",
+            "ProductRating": 4.7,
+            "ProductPrice": 380,
+            "ProductContains": "Chicken, Cream, Spices",
+            "Ingredients": [
+                "Chicken",
+                "Cream",
+                "Cumin",
+                "Coriander",
+                "Chili",
+                "Garlic",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U077",
+                    "UserName": "Deepak Rani",
+                    "UserRating": 5,
+                    "Comment": "So soft and creamy, loved every bite!"
+                },
+                {
+                    "UserId": "U078",
+                    "UserName": "Neha Gupta",
+                    "UserRating": 4.6,
+                    "Comment": "Delicious, but could use a little more spice."
+                }
+            ],
+            "Available": true
+        },
+        "P040": {
+            "productid": "P040",
+            "category": "Vegetarian",
+            "productImg":"",
+            "ProductName": "Baingan Bharta",
+            "ProductRating": 4.6,
+            "ProductPrice": 250,
+            "ProductContains": "Eggplant, Spices",
+            "Ingredients": [
+                "Eggplant",
+                "Onion",
+                "Garlic",
+                "Cumin",
+                "Tomato",
+                "Ginger",
+                "Coriander"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U079",
+                    "UserName": "Ravi Kumar",
+                    "UserRating": 5,
+                    "Comment": "The smoky flavor of the eggplant makes this dish amazing!"
+                },
+                {
+                    "UserId": "U080",
+                    "UserName": "Anjali Yadav",
+                    "UserRating": 4.5,
+                    "Comment": "Delicious, but could use more garlic."
+                }
+            ],
+            "Available": true
+        },
+        "P041": {
+            "productid": "P041",
+            "category": "Chicken",
+            "productImg":"",
+            "ProductName": "Chicken Tandoori",
+            "ProductRating": 4.8,
+            "ProductPrice": 450,
+            "ProductContains": "Chicken, Spices, Yogurt",
+            "Ingredients": [
+                "Chicken",
+                "Yogurt",
+                "Cumin",
+                "Coriander",
+                "Chili",
+                "Ginger",
+                "Garlic"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U081",
+                    "UserName": "Ravi Desai",
+                    "UserRating": 5,
+                    "Comment": "Perfectly cooked with great smoky flavor!"
+                },
+                {
+                    "UserId": "U082",
+                    "UserName": "Leena Patel",
+                    "UserRating": 4.7,
+                    "Comment": "Amazing flavor, though a bit too spicy for me."
+                }
+            ],
+            "Available": true
+        },
+        "P042": {
+            "productid": "P042",
+            "category": "Vegetarian",
+            "productImg":"",
+            "ProductName": "Chole Bhature",
+            "ProductRating": 4.6,
+            "ProductPrice": 300,
+            "ProductContains": "Chickpeas, Flour, Spices",
+            "Ingredients": [
+                "Chickpeas",
+                "Flour",
+                "Cumin",
+                "Onion",
+                "Tomato",
+                "Ginger",
+                "Garlic"
+            ],
+            "TermsAndConditionsOfStorage": "Consume within 48 hours for best taste.",
+            "Reviews": [
+                {
+                    "UserId": "U083",
+                    "UserName": "Neha Batra",
+                    "UserRating": 5,
+                    "Comment": "The bhature were so soft and the chole was spicy and flavorful!"
+                },
+                {
+                    "UserId": "U084",
+                    "UserName": "Ankit Mehra",
+                    "UserRating": 4.5,
+                    "Comment": "Delicious but could use a bit more spice."
+                }
+            ],
+            "Available": true
+        },
+        "P043": {
+            "productid": "P043",
+            "category": "Mutton",
+            "productImg":"",
+            "ProductName": "Mutton Rogan Josh",
+            "ProductRating": 4.9,
+            "ProductPrice": 650,
+            "ProductContains": "Mutton, Spices",
+            "Ingredients": [
+                "Mutton",
+                "Onion",
+                "Tomato",
+                "Cumin",
+                "Coriander",
+                "Chili",
+                "Garlic"
+            ],
+            "TermsAndConditionsOfStorage": "Store in a cool place and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U085",
+                    "UserName": "Manoj Rathi",
+                    "UserRating": 5,
+                    "Comment": "A rich and flavorful dish, one of my favorites!"
+                },
+                {
+                    "UserId": "U086",
+                    "UserName": "Vikram Soni",
+                    "UserRating": 4.8,
+                    "Comment": "The mutton was tender and the spices were perfectly balanced."
+                }
+            ],
+            "Available": true
+        },
+        "P044": {
+            "productid": "P044",
+            "category": "Chicken",
+            "productImg":"",
+            "ProductName": "Chicken Korma",
+            "ProductRating": 4.7,
+            "ProductPrice": 420,
+            "ProductContains": "Chicken, Cream, Spices",
+            "Ingredients": [
+                "Chicken",
+                "Cream",
+                "Cumin",
+                "Coriander",
+                "Cardamom",
+                "Cloves",
+                "Garlic",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 2 days.",
+            "Reviews": [
+                {
+                    "UserId": "U087",
+                    "UserName": "Priya Mehta",
+                    "UserRating": 5,
+                    "Comment": "The korma was rich and creamy, absolutely loved it!"
+                },
+                {
+                    "UserId": "U088",
+                    "UserName": "Sandeep Kumar",
+                    "UserRating": 4.6,
+                    "Comment": "Flavors were good, but a bit too creamy for my taste."
+                }
+            ],
+            "Available": true
+        },
+        "P045": {
+            "productid": "P045",
+            "category": "Vegetarian",
+            "productImg":"",
+            "ProductName": "Aloo Gobi",
+            "ProductRating": 4.6,
+            "ProductPrice": 250,
+            "ProductContains": "Potato, Cauliflower, Spices",
+            "Ingredients": [
+                "Potato",
+                "Cauliflower",
+                "Cumin",
+                "Ginger",
+                "Chili",
+                "Onion",
+                "Tomato"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U089",
+                    "UserName": "Rita Sharma",
+                    "UserRating": 5,
+                    "Comment": "Simple yet delicious, one of my go-to dishes!"
+                },
+                {
+                    "UserId": "U090",
+                    "UserName": "Kiran Bedi",
+                    "UserRating": 4.5,
+                    "Comment": "Tasty, but I would have preferred a little more spice."
+                }
+            ],
+            "Available": true
+        },
+        "P046": {
+            "productid": "P046",
+            "category": "Mutton",
+            "productImg":"",
+            "ProductName": "Mutton Seekh Kebab",
+            "ProductRating": 4.7,
+            "ProductPrice": 550,
+            "ProductContains": "Mutton, Spices",
+            "Ingredients": [
+                "Mutton",
+                "Coriander",
+                "Ginger",
+                "Garlic",
+                "Chili",
+                "Onion",
+                "Cumin"
+            ],
+            "TermsAndConditionsOfStorage": "Best served fresh.",
+            "Reviews": [
+                {
+                    "UserId": "U091",
+                    "UserName": "Rajesh Kumar",
+                    "UserRating": 5,
+                    "Comment": "The kebabs were so flavorful and juicy!"
+                },
+                {
+                    "UserId": "U092",
+                    "UserName": "Seema Yadav",
+                    "UserRating": 4.6,
+                    "Comment": "Delicious but could use a bit more seasoning."
+                }
+            ],
+            "Available": true
+        },
+        "P047": {
+            "productid": "P047",
+            "category": "Chicken",
+            "productImg":"",
+            "ProductName": "Butter Chicken",
+            "ProductRating": 4.9,
+            "ProductPrice": 480,
+            "ProductContains": "Chicken, Butter, Cream, Spices",
+            "Ingredients": [
+                "Chicken",
+                "Butter",
+                "Cream",
+                "Tomato",
+                "Cumin",
+                "Chili",
+                "Ginger",
+                "Garlic"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U093",
+                    "UserName": "Madhuri Dixit",
+                    "UserRating": 5,
+                    "Comment": "The best butter chicken I've ever had! So creamy and rich."
+                },
+                {
+                    "UserId": "U094",
+                    "UserName": "Amit Gupta",
+                    "UserRating": 4.8,
+                    "Comment": "Delicious but a little too creamy for me."
+                }
+            ],
+            "Available": true
+        },
+        "P048": {
+            "productid": "P048",
+            "category": "Vegetarian",
+            "productImg":"",
+            "ProductName": "Dal Tadka",
+            "ProductRating": 4.7,
+            "ProductPrice": 220,
+            "ProductContains": "Lentils, Spices",
+            "Ingredients": [
+                "Lentils",
+                "Cumin",
+                "Garlic",
+                "Chili",
+                "Onion",
+                "Tomato",
+                "Ginger"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U095",
+                    "UserName": "Suman Verma",
+                    "UserRating": 5,
+                    "Comment": "Tasty and comforting, perfect with rice!"
+                },
+                {
+                    "UserId": "U096",
+                    "UserName": "Neeraj Kumar",
+                    "UserRating": 4.6,
+                    "Comment": "Good flavor, but I would prefer a little more garlic."
+                }
+            ],
+            "Available": true
+        },
+        "P049": {
+            "productid": "P049",
+            "category": "Mutton",
+            "productImg":"",
+            "ProductName": "Mutton Keema",
+            "ProductRating": 4.6,
+            "ProductPrice": 520,
+            "ProductContains": "Mutton, Spices",
+            "Ingredients": [
+                "Mutton",
+                "Onion",
+                "Tomato",
+                "Ginger",
+                "Garlic",
+                "Chili",
+                "Cumin"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U097",
+                    "UserName": "Tarun Verma",
+                    "UserRating": 5,
+                    "Comment": "Absolutely love the flavor, tender and delicious!"
+                },
+                {
+                    "UserId": "U098",
+                    "UserName": "Deepak Kumar",
+                    "UserRating": 4.5,
+                    "Comment": "Tasty, but could use a bit more spice."
+                }
+            ],
+            "Available": true
+        },
+        "P050": {
+            "productid": "P050",
+            "category": "Chicken",
+            "productImg":"",
+            "ProductName": "Chicken Biryani",
+            "ProductRating": 4.8,
+            "ProductPrice": 600,
+            "ProductContains": "Chicken, Rice, Spices, Yogurt",
+            "Ingredients": [
+                "Chicken",
+                "Rice",
+                "Yogurt",
+                "Cumin",
+                "Coriander",
+                "Chili",
+                "Ginger",
+                "Garlic",
+                "Cardamom"
+            ],
+            "TermsAndConditionsOfStorage": "Refrigerate and consume within 48 hours.",
+            "Reviews": [
+                {
+                    "UserId": "U099",
+                    "UserName": "Ashok Rai",
+                    "UserRating": 5,
+                    "Comment": "One of the best biryanis I've ever tasted, truly delicious!"
+                },
+                {
+                    "UserId": "U100",
+                    "UserName": "Simran Kaur",
+                    "UserRating": 4.7,
+                    "Comment": "Fluffy rice, tender chicken, and great balance of spices."
+                }
+            ],
+            "Available": true
+        }
+    }
+}

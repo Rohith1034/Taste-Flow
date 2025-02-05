@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TasteFlow" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+         <item name="colorPrimary">#26262d</item>
+        <item name="colorPrimaryVariant">#26262d</item>
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="backgroundColor">#26262d</item>
+    </style>
+
+    <style name="BottomNavigationViewCustomStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemRippleColor">@null</item>
+    </style>
+
+
+</resources>

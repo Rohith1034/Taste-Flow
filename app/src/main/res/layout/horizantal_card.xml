@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_marginTop="10dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="6dp"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="#151518"
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/horizontal_card"
+        android:layout_width="match_parent"
+        android:background="@drawable/product_card_background"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/productimg"
+            android:layout_marginTop="2dp"
+
+            android:background="@drawable/img_background"
+            android:layout_width="110dp"
+            android:scaleType="fitXY"
+            android:layout_height="145dp"
+            android:src="@drawable/dosa"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/productname"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppinslight"
+            android:text="Masala Dosa"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            app:layout_constraintStart_toEndOf="@+id/productimg"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="17dp"
+            android:layout_height="17dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/baseline_water_drop_24"
+            app:layout_constraintStart_toEndOf="@+id/productimg"
+            app:layout_constraintTop_toBottomOf="@+id/productname" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/poppinslight"
+            android:text="320 kcal"
+            android:textColor="#8d8d8e"
+            android:textSize="12dp"
+            app:layout_constraintStart_toEndOf="@+id/imageView2"
+            app:layout_constraintTop_toBottomOf="@+id/productname" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="₹ 180"
+            android:id="@+id/productprice"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/poppinslight"
+            android:layout_marginStart="16dp"
+            app:layout_constraintStart_toEndOf="@+id/productimg"
+            app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/product_add_btn"
+            android:layout_width="40dp"
+            android:elevation="15dp"
+            android:backgroundTint="#232327"
+            app:backgroundTint="#232327"
+            android:padding="10dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circle_add"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/baseline_add_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

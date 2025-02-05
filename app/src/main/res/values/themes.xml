@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TasteFlow" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#26262d</item>
+        <item name="colorPrimaryVariant">#26262d</item>
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="backgroundColor">#26262d</item>
+        <item name="colorControlHighlight">#26262d</item>
+        <item name="colorAccent">#26262d</item>
+    </style>
+
+    <style name="BottomNavigationViewCustomStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemRippleColor">@null</item>
+    </style>
+
+    <style name="CustomRatingBar" parent="Widget.AppCompat.RatingBar.Small">
+        <item name="android:minHeight">40dp</item>
+        <item name="android:maxHeight">40dp</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginRight">0dp</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+    </style>
+
+    <style name="CustomSearchViewStyle">
+        <item name="android:textColor">#FFFFFF</item> <!-- Set query text color -->
+        <item name="android:textColorHint">#888888</item> <!-- Set query hint color -->
+    </style>
+
+
+
+    <style name="Theme.TasteFlow" parent="Base.Theme.TasteFlow" />
+</resources>
