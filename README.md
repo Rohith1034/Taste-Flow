@@ -21,6 +21,13 @@
 - **Firebase** for authentication, database storage, and push notifications.
 - **Glide** for efficient image loading and caching.
 - **Retrofit** for making API calls to interact with the backend.
+![Onboarding 1.png]
+![Onboarding 2.png]
+![iPhone 13, 12 Pro Max – 43.png]
+![Homescreen.png]
+![Product screen.png]
+![Cart 1.png]
+![Account flow 2.png]
 
 
 ## Installation
