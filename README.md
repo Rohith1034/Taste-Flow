@@ -21,14 +21,26 @@
 - **Firebase** for authentication, database storage, and push notifications.
 - **Glide** for efficient image loading and caching.
 - **Retrofit** for making API calls to interact with the backend.
-![Onboarding 1.png](Onboarding 1.png)
-![Onboarding 2.png](Onboarding 2.png)
-![iPhone 13, 12 Pro Max – 43.png](iPhone 13, 12 Pro Max – 43.png)
-![Homescreen.png](Homescreen.png)
-![Product screen.png](Product screen.png)
-![Cart 1.png](Cart 1.png)
-![Account flow 2.png](Account flow 2.png)
 
+## Screenshots
+
+Here’s a preview of the app:
+
+### Onboarding Screens
+![Onboarding 1](images/Onboarding1.png)
+![Onboarding 2](images/Onboarding2.png)
+
+### Home Screen
+![Home Screen](images/Homescreen.png)
+
+### Product Screen
+![Product Screen](images/Productscreen.png)
+
+### Cart Page
+![Cart Page](images/Cart1.png)
+
+### Account Flow
+![Account Flow](images/Accountflow2.png)
 
 ## Installation
 
@@ -80,7 +92,3 @@ If you have any questions or feedback, feel free to reach out:
 - **Email**: support@tasteflow.com
 - **GitHub**: [your-github-profile](https://github.com/Rohith1034)
 - **Website**: [www.tasteflow.com](http://www.tasteflow.com)
-
----
-
-Let me know if you need more sections or adjustments!
